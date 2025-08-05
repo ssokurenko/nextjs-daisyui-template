@@ -4,7 +4,7 @@ export default function Navigation() {
   return (
     <div className="navbar bg-base-100 shadow-lg">
       <div className="navbar-start">
-        <a className="btn btn-ghost text-xl font-bold">Teleprompter Space</a>
+        <a className="btn btn-ghost text-xl font-bold">[Your logo]</a>
       </div>
       <div className="navbar-end">
         <ThemeSwitch />

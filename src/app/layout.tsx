@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Teleprompter.space",
-  description: "Free online teleprompter",
+  title: "Next.js DaisyUI Template",
+  description: "Template",
 };
 
 export default function RootLayout({
