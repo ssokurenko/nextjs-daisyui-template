@@ -14,7 +14,7 @@ A lightweight, production-ready Next.js template that builds static files to the
 
 ## 🎯 Demo
 
-Check out the live demo: [Add your demo URL here]
+Check out the live [demo](https://ssokurenko.github.io/nextjs-daisyui-template/).
 
 ## 🚀 Quick Start
 
